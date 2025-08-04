@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+dotenv
+pyjwt
+"passlib[bcrypt]"
+pydantic[email]
